@@ -1,4 +1,7 @@
 '''
+Solution for Issue #1
+Author: Spencer Bywater @spencerbyw
+Problem Description:
 Print a sequence of numbers starting with N, without using loop, in which A[i+1] = A[i] - 5, if A[i]>0, else A[i+1]=A[i] + 5 repeat it until A[i]=N.
 
 Input:
