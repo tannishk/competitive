@@ -1,0 +1,1 @@
+Write a function that returns whether a given tree is a complete binary tree.
