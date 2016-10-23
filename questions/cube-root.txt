@@ -1,0 +1,2 @@
+Write an implementation to approach the cube root of a given number.
+Hint: you can always use Newton-Raphson Method as basis for your solution
