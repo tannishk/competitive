@@ -1,4 +1,4 @@
-# competitive
+# Competitive Programming Questions 
 
 ## Introduction
 
@@ -10,5 +10,6 @@ You can always contribute by adding your solution to these questions in the corr
 Feel free to submit answers in a language of your liking.<br>
 Only one submission per request will be accepted.<br>
 New questions will be posted in `issues`.<br>
+You are also welcome to post new questions in `issues`<br>
 Kindly contribute!
 
