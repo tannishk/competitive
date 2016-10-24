@@ -1,0 +1,1 @@
+Write a standalone function that returns the count of nodes in a linked list given a pointer to the head node
