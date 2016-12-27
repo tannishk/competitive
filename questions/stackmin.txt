@@ -1,0 +1,2 @@
+How would you design a stack in which addition to push and pop has a function minimum to return min element . ? Push , pop 
+Min should all opearte in O(1)?
